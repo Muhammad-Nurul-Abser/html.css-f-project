@@ -1,0 +1,21 @@
+.nav{
+    background-color: skyblue;
+    font-family: fantasy;
+    border-radius:15px 15px;
+    border: black;
+    border-style: solid;
+}
+
+.title{
+    background: crimson;
+    padding: 50px;
+    border-style: solid;
+
+    
+
+}
+img{
+    border-radius: 80px;
+    width: 90px;
+    margin-top: 4px;
+}
